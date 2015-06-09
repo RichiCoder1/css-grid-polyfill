@@ -1,0 +1,24 @@
+{
+  "name": "css-grid-polyfill",
+  "version": "0.1.0",
+  "homepage": "git://github.com/FremyCompany/css-polyfills.git",
+  "authors": [
+    "François REMY <francois.remy.dev@outlook.com>"
+  ],
+  "description": "Creates a background framework for effective css polyfilling",
+  "main": "src/requirements.js",
+  "keywords": [
+    "css-grid",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "demo",
+    "doc",
+    "src",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
